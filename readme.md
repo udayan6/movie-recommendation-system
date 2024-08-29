@@ -1,0 +1,3 @@
+**Movie Recommendation System**
+
+This project implements a hybrid movie recommendation system that combines content-based filtering with collaborative filtering. The system leverages TF-IDF vectorisation to analyse movie titles, and uses user ratings to provide personalised movie recommendations. Interactive interfaces built with IPython widgets allows users to search for movies and receive tailored recommendations in real-time.
